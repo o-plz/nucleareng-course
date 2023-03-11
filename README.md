@@ -7,3 +7,6 @@ In this repository, you will find the following folders:
   - Coding Excerises: Included in this folder is information on each coding exercise given in this course. This includes the background readings, which was relevant Python information that would be needed for the corresponding coding exercise, and the coding exercise itself.
   - Assignments: Each assignment contained a coding component, worth 25% of the assignment. Only the coding question from each assignment is presented here.
 
+## Setup
+This section contains a file that was provided to the students on how to get Python and Eclipse working. Eclipse was the IDE chosen for this course, but there are many other IDE's that could be chosen.
+A GitHub Repository was also used for the students to commit finished assignments for marking.
