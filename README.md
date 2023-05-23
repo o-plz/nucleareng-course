@@ -1,6 +1,6 @@
 # Introduction
 This repository is the home of the coding activities used throughout the "Introduction to Nuclear Engineering" course at the University of New Brunswick, as discussed in the following journal article:
-O. Y. Palazhchenko, B.A. Loder, J.D.F. Miles, and A. Martin, "Title Placeholder". (Add more information after publication)
+ "Title Placeholder". (Add more information after publication)
 
 In this repository, you will find the following:
   - Setup
