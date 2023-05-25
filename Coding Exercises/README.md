@@ -1,6 +1,6 @@
   The general content within each of the coding exercises is summarized below:
   
-  CE 0
+  #CE 0
     - The basics:
         -> Familiarization with the Eclipse IDE
         -> Creating a python module
