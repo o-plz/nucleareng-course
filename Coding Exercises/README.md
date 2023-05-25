@@ -6,7 +6,7 @@
         -> Creating a python module
         -> Committing/pushing files to a remote repository
     
-  ## CE 1
+  # CE 1
     - Coding fundamentals: 
         -> Commenting and indentation blocks
         -> Data types
@@ -14,19 +14,19 @@
         -> Lists
         -> For loops
   
-  ## CE 2
+  # CE 2
     - Working with lists and functions:
         -> Introduction to functions
         -> Branching
         -> Adding packages to Eclipse
         -> Importing packages into modules
         
-  ## CE 3
+  # CE 3
     - Numerical solutions for ODEs and plotting data:
         -> Using the solve_ivp function from scipy
         -> creating plots using matplotlib
         
-  ## CE 4
+  # CE 4
     - Working with data:
         -> Reading and writing data files
         -> Introduction to the pandas package
